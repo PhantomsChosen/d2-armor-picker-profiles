@@ -1,0 +1,26 @@
+[
+  {
+    "build": "citans",
+    "file": "citans.txt",
+    "character": "titan",
+    "power": "stasis"
+  },
+  {
+    "build": "test1",
+    "file": "citans.txt",
+    "character": "titan",
+    "power": "stasis"
+  },
+  {
+    "build": "test2",
+    "file": "citans.txt",
+    "character": "titan",
+    "power": "stasis"
+  },
+  {
+    "build": "test3",
+    "file": "citans.txt",
+    "character": "titan",
+    "power": "stasis"
+  }
+]
